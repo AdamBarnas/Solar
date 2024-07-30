@@ -1,0 +1,13 @@
+water depth monaco 30m min 200+ max
+
+wave height 0.5m
+period 2-10s
+wave speed 5-10km/h
+
+https://www.tide-forecast.com/tide/Monaco/sea-conditions
+https://www.coastalwiki.org/wiki/Shallow-water_wave_theory
+https://www.sciencedirect.com/science/article/pii/S2092678216305441
+
+Cd = 1.28 for flat plane
+
+
