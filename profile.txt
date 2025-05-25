@@ -1,0 +1,21 @@
+długie:
+3516mm x2
+2740mm x2
+
+boki przód/tył:
+1149mm x4 +5mm na cięcie
+
+boki środek:
+1197,2mm ale są ścinane po skosie nie symetrycznie, więc na jeden około 1220mm x4
+
+przód/tył symetria:
+1066mm x4
+1040 x2
+526,91mm x4 +5mm na cięcie
+756,75mm x2 +5mm na cięcie
+557,68mm x4 +5mm na cięcie
+
+tył góra:
+733,01mm x2 +5mm na cięcie
+515,51mm ale są ścinane po skosie nie symetrycznie, więc na jeden około 525mm x2
+660,66mm x1 +5mm na cięcie
