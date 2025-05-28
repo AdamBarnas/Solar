@@ -64,6 +64,7 @@ profiles = np.array(profiles)
 
 
 print(profiles.sum(), "\n")
+print(len(profiles), "\n")
 
 # %%
 dictionary = {}
