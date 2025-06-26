@@ -88,7 +88,7 @@ for profile in profiles:
             dictionary[best_index] = []
         dictionary[best_index].append(int(profile))
         available_profiles[best_index] -= profile
-        print(f"Profile {profile} allocated with {available_profiles[best_index] + profile} -> {available_profiles[best_index]}    \tindex {best_index}")
+        # print(f"Profile {profile} allocated with {available_profiles[best_index] + profile} -> {available_profiles[best_index]}    \tindex {best_index}")
 
 # print("Available profiles after allocation:")
 # for i in available_profiles:
